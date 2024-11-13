@@ -2,3 +2,4 @@
 - I want to be able to use management software like Jira or ClickUp.
 - I want to deepen my understanding and skills in Laravel.
 - I want to deepen my understanding and skills in Filament.
+- Understanding the GMELS application workflow
